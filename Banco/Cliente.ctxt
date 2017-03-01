@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=nom\ ed
+comment0.target=Cliente(java.lang.String,\ int)
+comment1.params=
+comment1.target=void\ abrirCuenta()
+comment2.params=
+comment2.target=void\ consultarSaldo()
+comment3.params=cantidad
+comment3.target=void\ ingresarDinero(double)
+comment4.params=cantidad
+comment4.target=void\ sacarDinero(double)
+numComments=5
